@@ -15,9 +15,12 @@
  * SFC版DQ3RTA 勇者怠け者チャート
 * PS2DQ5RTA_flora_hagure6_chart.txt
  * PS2版DQ5RTA フローラはぐれ6匹チャート
+* SFCDQ6RTA_stone_cut_chart.txt
+ * SFC版DQ6RTA 賢者の石カットチャート
 
 
 ## Links
 * [○△□×(ニコニココミュニティ)](http://com.nicovideo.jp/community/co1180473)
-* [きほんはまる？](http://maru0137.hatenablog.com/)
+* [Twitch](http://www.twitch.tv/maru0137/profile)
+* [きほんはまる？](http://maru0137.hatenablog.com)
 * [Twitter](https://twitter.com/Maru0137)
